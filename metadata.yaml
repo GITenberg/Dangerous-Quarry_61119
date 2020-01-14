@@ -1,0 +1,32 @@
+_repo: Dangerous-Quarry_61119
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harmon, Jim
+    alias: Harmon, James Judson
+    birthdate: 1933
+    deathdate: 2010
+    gutenberg_agent_id: '35040'
+    url: http://www.gutenberg.org/2009/agents/35040
+    wikipedia: https://en.wikipedia.org/wiki/Jim_Harmon
+description: ''
+gutenberg_issued: '2020-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61119'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cities and towns -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Parapsychology -- Fiction'
+- !lcsh 'Insurance adjusters -- Fiction'
+- !lcsh 'Ozark Mountains -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Missouri -- Fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Dangerous Quarry
+url: http://www.gutenberg.org/ebooks/61119
